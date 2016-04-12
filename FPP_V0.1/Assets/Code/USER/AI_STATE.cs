@@ -1,6 +1,8 @@
 ﻿/***********************************************\
  * Author : Arnaud Mollé
  * Date : 11/05/16
+ * Description : Cet AI permet de recréer une state machine pour n'importe quel type de gameObject
+ * Il suffit de renseigner un "sState" et de lui donner les comportements voulus
 \***********************************************/
 
 using UnityEngine;
