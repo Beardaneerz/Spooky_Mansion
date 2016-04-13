@@ -16,6 +16,7 @@ public class AI_STATE : MonoBehaviour {
 	void Start () {
 		// INITIALISATION EN IDLE
 		this.changeState ("IDLE");
+
 	}
 
 	void changeState ( string sNewState ){
