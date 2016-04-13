@@ -13,6 +13,7 @@ public class AI_INPUT_MANAGER : MonoBehaviour {
 
 		for (int i=0;i<8;i++){ bConnected[i] = true; }
 		nJoypadConnect = this.checkJoypadConnected ();
+		Debug.Log ("test");
 	}
 	
 	int checkJoypadConnected ( ){
